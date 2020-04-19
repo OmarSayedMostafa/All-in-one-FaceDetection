@@ -1,0 +1,9 @@
+numpy
+opencv-python
+dlib
+face_recognition
+scipy
+mtcnn
+onnx
+onnxruntime
+onnx_tf
